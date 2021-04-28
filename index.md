@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+ Shubham kumar chaturvedi
+ # Data Science Portfolio
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks,R markdown files and web app .
 
-You can use the [editor on GitHub](https://github.com/shubham123ch/shubham_chaturvedi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  Contents
+###  Data Analysis and Visualisation
 
-### Markdown
+Python:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Tools: Pandas,Seaborn and Matplotlib.
 
-# Header 1
-## Header 2
-### Header 3
+R:
+Visualisation of Coronovirus Case Statistics using R, Shiny and Plotly.
+https://github.com/shubham123ch/3.shiny-project-coursera#visualisation-of-coronovirus-case-statistics-using-r-shiny-and-plotly.
 
-- Bulleted
-- List
+###   Machine Learning
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+###  Deep Learning: 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Tools: scikit-learn, Pandas, Seaborn, Matplotlib,tensorflow.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shubham123ch/shubham_chaturvedi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Natural Language Processing:
 
-### Support or Contact
+A Shiny app that takes as input a phrase (multiple words) in a text box input and outputs a prediction of the next word.
+https://github.com/shubham123ch/Data-Science-Capstone#data-science-capstone.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Tools: NLTK,TM.
+
+##  Micro Projects:
+1. Python:
+zomato_rating
+https://github.com/shubham123ch/zomato_rating
+
+
+
+2. R
+
+
+
+If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, please send an email at shubham123ch@gmail.com .
+
