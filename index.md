@@ -1,5 +1,5 @@
- Shubham kumar chaturvedi
- # Data Science Portfolio
+                                                                     Shubham kumar chaturvedi
+# Data Science Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks,R markdown files and web app .
 
 Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
@@ -13,8 +13,8 @@ Python:
 Tools: Pandas,Seaborn and Matplotlib.
 
 R:
-Visualisation of Coronovirus Case Statistics using R, Shiny and Plotly.
-https://github.com/shubham123ch/3.shiny-project-coursera#visualisation-of-coronovirus-case-statistics-using-r-shiny-and-plotly.
+[Visualisation of Coronovirus Case Statistics using R, Shiny and Plotly].
+(https://github.com/shubham123ch/3.shiny-project-coursera#visualisation-of-coronovirus-case-statistics-using-r-shiny-and-plotly).
 
 ###   Machine Learning
 
@@ -27,15 +27,15 @@ Tools: scikit-learn, Pandas, Seaborn, Matplotlib,tensorflow.
 
 ### Natural Language Processing:
 
-A Shiny app that takes as input a phrase (multiple words) in a text box input and outputs a prediction of the next word.
-https://github.com/shubham123ch/Data-Science-Capstone#data-science-capstone.
+[A Shiny app that takes as input a phrase (multiple words) in a text box input and outputs a prediction of the next word].
+(https://github.com/shubham123ch/Data-Science-Capstone#data-science-capstone).
 
 Tools: NLTK,TM.
 
 ##  Micro Projects:
 1. Python:
-zomato_rating
-https://github.com/shubham123ch/zomato_rating
+[zomato_rating]
+(https://github.com/shubham123ch/zomato_rating)
 
 
 
